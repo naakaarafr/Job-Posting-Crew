@@ -258,7 +258,3 @@ For issues and questions:
 2. Review API documentation for Gemini and Serper
 3. Open an issue on the project repository
 4. Ensure API keys have sufficient quota
-
----
-
-**Made with ❤️ by the Job Posting Crew Team**
